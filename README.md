@@ -3,11 +3,11 @@ atom-terminal-ranking
 
 terminal系のatomプラグインで今一番人気なのが何か見てみた
 
-1. 
+1. `apm search`の結果をjsonで出力　
 ```sh
 apm search terminal --json > terminal.json
 ```
-1. 
+1. jupyter notebook をdockerから起動
 ```sh
 ./startjupyter.sh
 ```
