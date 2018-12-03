@@ -3,10 +3,12 @@ atom-terminal-ranking
 
 terminal系のatomプラグインで今一番人気なのが何か見てみた
 
-1. ```sh
+1. 
+```sh
 apm search terminal --json > terminal.json
 ```
-1. ```sh
+1. 
+```sh
 ./startjupyter.sh
 ```
 1. `http://(4ff5857fb9ca or 127.0.0.1):8888/?token=3b6477fa68c81da5c9c0c3688aedbee20604e949a41cdcd2`  
